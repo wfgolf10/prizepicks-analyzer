@@ -1,5 +1,0 @@
-prizepicks-app/
- ├── prizepicks_predictor.py   # your ML logic (refactored to expose run_pipeline)
- ├── app.py                    # Streamlit UI
- ├── requirements.txt          # Python deps
- └── games_sample.csv          # optional demo CSV
